@@ -1,0 +1,19 @@
+{
+    "name": "mahmoud-abdelfadeil/php-pagination",
+    "description": "A package to facilitate pagination",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpPagination\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahmoud Abdelfadiel",
+            "email": "mahmoudhasan509@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
